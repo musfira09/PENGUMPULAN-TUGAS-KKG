@@ -1,0 +1,6 @@
+{
+  "name": "Pengumpulan Tugas KKG SD",
+  "description": "Aplikasi pengumpulan tugas KKG SD Wilayah I Kecamatan Bontotiro yang praktis dan terintegrasi otomatis dengan Google Spreadsheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
